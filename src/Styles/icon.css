@@ -1,0 +1,21 @@
+.logo {
+  width: 57px;
+  height: 57px;
+  background-color: white;
+  border-radius: 9px;
+  font-size: 17px;
+}
+
+.icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 80px;
+  height: 80px;
+}
+
+.iconName {
+  font-size: 0.8rem;
+}

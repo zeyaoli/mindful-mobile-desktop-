@@ -1,0 +1,22 @@
+#counting {
+  font-family: "Anton", sans-serif;
+  background: rgba(207, 207, 207, 0.24);
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px 0px;
+  color: #181818;
+  font-size: 1.2rem;
+  margin: 20px 0px;
+}
+
+#counting h2 {
+  /* width: 95%; */
+  font-size: 1.25rem;
+  /* margin: 5px 5px; */
+  margin: 5px 0px;
+}
+
+#counting h3 {
+  font-size: 1.6rem;
+  margin: 5px 0px;
+}
